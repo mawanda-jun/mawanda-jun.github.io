@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni's homepage"
 title_separator          : ""
 name                     : &name "Giovanni Cavallin"
-description              : &description "personal description"
+description              : &description "Giovanni's blog about DL interesting researches"
 url                      : https://mawanda-jun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mawanda-jun/mawanda-jun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giovanni Cavallin"
   avatar           : "profile photo.jpg"
-  bio              : "Master CS student@UniPD\nVAIR@deepkapha.ai\nInterested in ML/DL/BCI research frontiers"
+  bio              : "Master CS student@UniPD VAIR@deepkapha.ai Interested in ML/DL/BCI research frontiers"
   location         : "Padova (IT)"
   employer         :
   pubmed           : 
