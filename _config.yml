@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giovanni Cavallin"
   avatar           : "profile photo.jpg"
-  bio              : "Master CS student@UniPD DL specialization | VAIR@deepkapha.ai | Interested in ML/DL/BCI research frontiers."
+  bio              : "Master CS student@UniPD\nVAIR@deepkapha.ai\nInterested in ML/DL/BCI research frontiers"
   location         : "Padova (IT)"
   employer         :
   pubmed           : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/mawanda-jun"
+  github           : "mawanda-jun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/giovanni-mawanda-cavallin/"
+  linkedin         : "giovanni-mawanda-cavallin/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
