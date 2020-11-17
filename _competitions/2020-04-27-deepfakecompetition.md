@@ -7,8 +7,7 @@ tags:
   - kaggle
 ---
 
-# The [DeepFake Kaggle competition](https://www.kaggle.com/c/deepfake-detection-challenge/)
-This post contains my insight about the aforementioned competition. You may find my implementation at my GitHub [repository](https://github.com/mawanda-jun/DeepFakeDetection/)
+This post contains my insight about the [DeepFake Kaggle competition](https://www.kaggle.com/c/deepfake-detection-challenge/). You may find my implementation at my GitHub [repository](https://github.com/mawanda-jun/DeepFakeDetection/)
 
 ## Intuition
 The approach I tried in this competition comes from a human-perspective attitude: for us (humans) it is way simpler to recognize a fake video from many seconds of playing, instead of from some video frames taken with random probability. Therefore, I tried to extract relevant information from the video frames, and analyze them with a Recurrent Neural Network.
