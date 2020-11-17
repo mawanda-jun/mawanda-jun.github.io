@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-    # _competitions
+  # _competitions
   - scope:
       path: ""
       type: competitions
