@@ -191,6 +191,17 @@ collections:
 
 # Defaults
 defaults:
+    # _competitions
+  - scope:
+      path: ""
+      type: competitions
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""
