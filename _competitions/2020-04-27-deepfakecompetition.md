@@ -15,7 +15,7 @@ The approach I tried in this competition comes from a human-perspective attitude
 I took inspiration from some notebooks about [data preparation](https://www.kaggle.com/phunghieu/deepfake-detection-data-preparation-baseline), the [training](https://www.kaggle.com/phunghieu/deepfake-detection-training-baseline) loop and the [extraction of audio features](https://www.kaggle.com/cookiecs/resnext-audio-video/)
 
 ## Training steps
-### Dataset insigth
+### Dataset insight
 The dataset contains many `mp4` videos. Those can have the face swapped, audio manipulations, or both. The label associated with the file only states if the video is real o fake (binary label), with no other information.
 
 ### Video manipulation
