@@ -1,7 +1,7 @@
 ---
 title: 'DeepFakeCompetition'
 date: 2020-04-27
-permalink: /competitions-archive/2020/04/deepfakecompetition/
+permalink: /competitions/2020/04/deepfakecompetition/
 tags:
   - deepfake
   - kaggle
